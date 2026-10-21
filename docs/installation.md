@@ -43,5 +43,4 @@ sudo systemctl status ssh
 Confirm that the required tools are installed and the SSH service is running.
 
 Record the commands used, their results, and any errors encountered.
-
 Safety: Perform these exercises on your own system or an authorized lab. Before enabling a firewall on a remote server, make sure SSH access is allowed.
